@@ -2,7 +2,7 @@
 
 #Examples
 
-Take a look at [https://github.com/yckart/Router.js/tree/master/examples](https://github.com/yckart/Router.js/tree/master/examples).
+Take a look at the [example](https://github.com/yckart/Router.js/blob/master/index.html).
 
 #Support
 
